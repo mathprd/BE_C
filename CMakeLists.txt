@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
-project(BE_C)
+project(ClassesBE)
 
-set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(BE_C main.cpp)
+add_executable(ClassesBE main.cpp Sequencement.h Boisson.h Cafe.h The.h Ecran.h Bouton.h The.cpp Cafe.cpp Sequencement.cpp Bouton.cpp Boisson.cpp Position.h Position.cpp Ecran.cpp)

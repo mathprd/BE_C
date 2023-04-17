@@ -1,8 +1,8 @@
-# Install script for directory: D:/CLion 2022.3.2/Git/BE_C
+# Install script for directory: D:/CLion 2022.3.2/Git/ClassesBE
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/BE_C")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/ClassesBE")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/CLion 2022.3.2/Git/BE_C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CLion 2022.3.2/Git/ClassesBE/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

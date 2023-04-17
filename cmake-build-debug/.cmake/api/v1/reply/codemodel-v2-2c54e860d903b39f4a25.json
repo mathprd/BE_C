@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "BE_C",
+					"name" : "ClassesBE",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "BE_C::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BE_C-Debug-76786aaa349e577d7d4f.json",
-					"name" : "BE_C",
+					"id" : "ClassesBE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ClassesBE-Debug-c4d00954bb7c7bec6730.json",
+					"name" : "ClassesBE",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CLion 2022.3.2/Git/BE_C/cmake-build-debug",
-		"source" : "D:/CLion 2022.3.2/Git/BE_C"
+		"build" : "D:/CLion 2022.3.2/Git/ClassesBE/cmake-build-debug",
+		"source" : "D:/CLion 2022.3.2/Git/ClassesBE"
 	},
 	"version" : 
 	{
